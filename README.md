@@ -1,0 +1,1 @@
+# FinCore Banking Platform\n\nMicroservices architecture.
