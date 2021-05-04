@@ -1,0 +1,1 @@
+package com.thanhauco.fincore.core.exception;\npublic class GlobalExceptionHandler {}
