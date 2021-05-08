@@ -1,0 +1,1 @@
+version: '3.8'\nservices:\n  postgres:\n    image: postgres:13\n  kafka:\n    image: confluentinc/cp-kafka
