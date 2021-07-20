@@ -1,1 +1,1 @@
-# FinCore Banking Platform\n\nMicroservices architecture.
+# FinCore Banking Platform\n\n## Services\n- Account Service\n- Transaction Service\n- Customer Service\n- Notification Service\n- Audit Service\n- API Gateway
